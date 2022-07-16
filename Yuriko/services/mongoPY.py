@@ -1,3 +1,4 @@
+import os 
 from Yuriko import MONGO_DB_URI
 from pymongo import MongoClient
 
