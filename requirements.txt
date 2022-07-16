@@ -33,7 +33,7 @@ regex
 bleach
 wikipedia
 markdown2>=2.4.0
-telethon==1.22.0
+telethon==1.24.0
 telegraph
 heroku3
 spamwatch
@@ -44,7 +44,6 @@ ujson
 pretty_errors
 pygithub
 TgCrypto
-Pyrogram
 PyDictionary
 yt-dlp
 youtube_search_python==1.4.9
@@ -85,3 +84,4 @@ pendulum
 fuzzysearch
 img2pdf
 multicolorcaptcha
+pyrogram==1.4.16
