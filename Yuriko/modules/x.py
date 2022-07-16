@@ -14,7 +14,7 @@ from Yuriko import (
 )
 from pyrogram import filters
 from Yuriko.services.telethon import tbot as pbot
-from Yuriko.services.PyMongo import mongoPY as db
+from Yuriko.services.mongoPY import mongoPY as db
 from telethon import events
 
 gban = {}
