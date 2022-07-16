@@ -1,3 +1,4 @@
+import os
 from telethon import TelegramClient
 
 from Yuriko import TOKEN, API_ID, API_HASH
