@@ -84,4 +84,4 @@ pendulum
 fuzzysearch
 img2pdf
 multicolorcaptcha
-pyrogram==1.4.16
+pyrogram==2.0.33
